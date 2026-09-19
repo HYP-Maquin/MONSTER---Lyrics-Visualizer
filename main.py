@@ -1,3 +1,4 @@
+#Full code coming soon...
 import time 
 
 lyrics = [

@@ -5,4 +5,4 @@ A Python script that displays the lyrics of **"MONSTER" by Asteria** in the term
 ## Credits
 
 * **Lead Developer:** HYP-Maquin
-* **Assistant / Contributor:** 
+* **Assistant / Contributor:** Rubyan
